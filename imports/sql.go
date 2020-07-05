@@ -10,8 +10,8 @@ import (
 	"strconv"
 	"time"
 
+	rlSql "github.com/rocketlaunchr/mysql-go"
 	dataframe "github.com/zdevwu/dataframe-go"
-	rlSql "github.com/zdevwu/mysql-go"
 )
 
 // Database is used to set the Database.
