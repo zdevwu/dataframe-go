@@ -5,7 +5,7 @@ package evaluation
 import (
 	"context"
 
-	"github.com/rocketlaunchr/dataframe-go/forecast"
+	"github.com/zdevwu/dataframe-go/forecast"
 )
 
 // SumOfSquaredErrors calculates the sum of squared errors.

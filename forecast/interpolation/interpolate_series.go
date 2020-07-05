@@ -11,7 +11,7 @@ import (
 	"github.com/DzananGanic/numericalgo/interpolate/lagrange"
 	"github.com/cnkei/gospline"
 
-	dataframe "github.com/rocketlaunchr/dataframe-go"
+	dataframe "github.com/zdevwu/dataframe-go"
 )
 
 func interpolateSeriesFloat64(ctx context.Context, fs *dataframe.SeriesFloat64, opts InterpolateOptions) (*dataframe.OrderedMapIntFloat64, error) {

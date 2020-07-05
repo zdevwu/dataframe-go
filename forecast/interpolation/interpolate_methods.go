@@ -5,7 +5,7 @@ package forecast
 import (
 	"context"
 
-	dataframe "github.com/rocketlaunchr/dataframe-go"
+	dataframe "github.com/zdevwu/dataframe-go"
 )
 
 // interpolateMethod is the algorithm used to interpolate.

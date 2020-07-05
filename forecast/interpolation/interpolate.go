@@ -5,7 +5,7 @@ package forecast
 import (
 	"context"
 
-	dataframe "github.com/rocketlaunchr/dataframe-go"
+	dataframe "github.com/zdevwu/dataframe-go"
 )
 
 // InterpolationFillDirection is used to set the direction that nil values are filled.

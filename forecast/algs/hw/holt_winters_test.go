@@ -6,8 +6,8 @@ import (
 	"context"
 	"testing"
 
-	dataframe "github.com/rocketlaunchr/dataframe-go"
-	evalFn "github.com/rocketlaunchr/dataframe-go/forecast/evaluation"
+	dataframe "github.com/zdevwu/dataframe-go"
+	evalFn "github.com/zdevwu/dataframe-go/forecast/evaluation"
 )
 
 func TestHW(t *testing.T) {

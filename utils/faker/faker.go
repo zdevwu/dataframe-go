@@ -11,7 +11,7 @@ import (
 
 	"github.com/brianvoe/gofakeit/v4"
 
-	dataframe "github.com/rocketlaunchr/dataframe-go"
+	dataframe "github.com/zdevwu/dataframe-go"
 )
 
 type s struct {

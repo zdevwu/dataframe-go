@@ -9,7 +9,7 @@ import (
 	"math"
 	"sync"
 
-	dataframe "github.com/rocketlaunchr/dataframe-go"
+	dataframe "github.com/zdevwu/dataframe-go"
 )
 
 func describeDataframe(ctx context.Context, df *dataframe.DataFrame, opts ...DescribeOptions) (DescribeOutput, error) {

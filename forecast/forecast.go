@@ -5,7 +5,7 @@ package forecast
 import (
 	"context"
 
-	dataframe "github.com/rocketlaunchr/dataframe-go"
+	dataframe "github.com/zdevwu/dataframe-go"
 )
 
 // Forecast predicts the next n values of sdf using the forecasting algorithm alg.

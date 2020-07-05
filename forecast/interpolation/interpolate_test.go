@@ -6,7 +6,7 @@ import (
 	"context"
 	"testing"
 
-	"github.com/rocketlaunchr/dataframe-go"
+	"github.com/zdevwu/dataframe-go"
 )
 
 func TestInterpolateSeriesForwardFillFwd(t *testing.T) {

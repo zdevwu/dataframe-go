@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	dataframe "github.com/rocketlaunchr/dataframe-go"
+	dataframe "github.com/zdevwu/dataframe-go"
 )
 
 // Database is used to set the Database.
@@ -78,8 +78,8 @@ type PrimaryKey struct {
 //  import (
 //  	stdSql "database/sql"
 //
-//  	"github.com/rocketlaunchr/dataframe-go/exports"
-//  	sql "github.com/rocketlaunchr/mysql-go"
+//  	"github.com/zdevwu/dataframe-go/exports"
+//  	sql "github.com/zdevwu/mysql-go"
 //  	"github.com/myesui/uuid"
 //  )
 //

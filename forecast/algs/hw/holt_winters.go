@@ -6,8 +6,8 @@ import (
 	"context"
 	"errors"
 
-	dataframe "github.com/rocketlaunchr/dataframe-go"
-	"github.com/rocketlaunchr/dataframe-go/forecast"
+	dataframe "github.com/zdevwu/dataframe-go"
+	"github.com/zdevwu/dataframe-go/forecast"
 )
 
 // Method specifies if the model type is additive or multiplicative.

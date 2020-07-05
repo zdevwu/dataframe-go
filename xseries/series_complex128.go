@@ -15,7 +15,7 @@ import (
 	"sync"
 
 	"github.com/olekukonko/tablewriter"
-	dataframe "github.com/rocketlaunchr/dataframe-go"
+	dataframe "github.com/zdevwu/dataframe-go"
 )
 
 // SeriesComplex128 is used for series containing complex128 data.
